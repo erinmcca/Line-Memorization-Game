@@ -17,7 +17,7 @@ with open("Cu Chulainn Script (With Cuts).txt", 'r', encoding="utf8") as script:
     #print(script.readline())
 
 
-    lines = script.readlines()
+    lines = script.readlines() # TODO get rid of all empty newlines
     #print(type(lines))
     #print(lines[:20])
 
@@ -87,11 +87,12 @@ def run_game(rounds, pairs):
         # probably levenshtein distance
         # also factoring in semantic difference would be ideal
 
-        grade = Levenshtein.ratio(your_line.lower(), true_line.lower())
+        grade = 100 * Levenshtein.ratio(your_line.lower(), true_line.lower())
             
         print(f'That was {grade}% correct!')
         print("The line is actually:")
         print(true_line)
+        print("\n")
 
         count += 1
 
