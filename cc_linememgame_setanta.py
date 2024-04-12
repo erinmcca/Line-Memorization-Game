@@ -22,10 +22,15 @@ with open("Cu Chulainn Script (With Cuts).txt", 'r', encoding="utf8") as script:
     #print(lines[:20])
 
 def scene_select(lines, start=["ACT ONE\n", "Scene 1\n"]):
+    #print(f"scene select start {start}")
     start_index = lines.index(start[0])
     lines = lines[start_index:]
+    #print("cut to act")
+    #print(lines[:5])
     start_index = lines.index(start[1])
     lines = lines[start_index:]
+    #print("cut to scene")
+    #print(lines[:5])
 
     return lines
 
@@ -131,7 +136,7 @@ if(custom=="y"):
         case "1":
             act = "ACT ONE\n"
         case "2":
-            act = "ACT TWO \n" # whyyyyy is the formatting inconsistent
+            act = "ACT TWO\n"
         case _:
             print("There's only 2 acts. I mean.... Unless you count the stuff with Fand... But I haven't written that yet.\n We're going with Act 1.")
     scenenum = input("Which scene? Type a number from 1 to 8.")
@@ -143,8 +148,10 @@ else:
     randomness = True
 
 lines = scene_select(all_lines, start)
+#print(lines[:5])
 
 setanta_lines = get_setanta_lines(lines)
+#print(setanta_lines[:3])
 
 pairs = make_line_mem_game(lines, setanta_lines)
 

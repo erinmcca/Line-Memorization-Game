@@ -1635,7 +1635,7 @@ Get inside the fortress and get his wounds treated by the physician. Go, you onl
 SCATHACH
 Everyone, stop sparring. There’s just been a report of a trap that caused a serious injury. I need you to check the grounds for more traps with me, so no one else has to be injured by things that aren’t my training. 
 ________________
-Scene 7 
+Scene 7
 
 
 (Still the training grounds, but weeks later. The pupils are sparring and SCATHACH is monitoring them like normal. SETANTA and FERDIAD enter.) 
@@ -2690,7 +2690,7 @@ THIS MEANS WAR
 ________________
 
 
-ACT TWO 
+ACT TWO
 Scene 1
 
 
@@ -4489,7 +4489,7 @@ Let’s go tell the troops it’s finally time for our own glory.
 ________________
 
 
-Scene 8 
+Scene 8
 
 
 (A rocky battlefield. MEDB enters with LUGAID and her army.) 
