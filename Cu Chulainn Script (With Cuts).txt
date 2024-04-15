@@ -25,11 +25,14 @@ LUGH
 There was one hero who most of all wanted to be remembered, who gave up everything, who took on a curse and fought against all odds just to be called a hero. But now? He might as well be right back where he started. Unpopular, ungrateful for what little he does have, and dreaming of the day he might be celebrated like the gods and heroes of his time. 
 
 
-(LUGH exits. SETANTA begins to pace around. A few villagers enter to pass by. He points the hurley at them and glares. They hurry away and exit. He relaxes again.) 
+(LUGH exits.) 
 
 
 #1 CU CHULAINN
 	
+
+(SETANTA begins to pace around. A few villagers enter to pass by. He points the hurley at them and glares. They hurry away and exit. He relaxes again.)
+
 
 SETANTA
 I'LL ADMIT THAT THIS ISN'T QUITE WHAT I EXPECTED
@@ -1060,7 +1063,7 @@ FERDIAD
 Yeah. Students of Scathach come from all over, so everyone is bound to have a story no one else here has heard before. Especially you since you’re brand new. 
 
 
-#6 TELL THE STORY
+#6 TELL THE STORY (PART 1)
 	
 
 WHEN HEROES AND VILLAINS ARE BORN AND LEGENDS START TO FORM
@@ -1260,12 +1263,12 @@ SETANTA
 And you’re sad you’re not in that reality.
 
 
-#8 UNFETTERED
-	
-
 FERDIAD
 Well listen, I’m just concerned on your behalf that you might be missing out. 
 
+
+#8 UNFETTERED
+	
 
 SETANTA
 Missing out on what exactly?
@@ -2292,15 +2295,15 @@ Thank you, Scathach! For everything. And Ferdiad, we’ll see each other again. 
 (SETANTA exits. SCATHACH follows after him.) 
 
 
-#11 LIKE IT MEANT NOTHING
-	
-
 FERDIAD
 But should I? I really thought you were worth it. Maybe I was wrong. 
 
 
 (FERDIAD starts crying. He wipes his tears and takes a deep breath to stop himself.) 
 
+
+#11 LIKE IT MEANT NOTHING
+	
 
 
 
@@ -2755,14 +2758,17 @@ Fine, I’ll shut up. As long as we get some kind of vengeance.
 
 
 FERDIAD
-I think Cu Chulainn’s cruel actions can be explained by a case of hubris. He let his successes go to his head to the point that he doesn’t think of anyone else, not even the person closest to him. He needs a wake up call, something to make him realize he isn’t some invincible god who the world revolves around. We need to attack, and he needs to lose, and I also need the catharsis of punching the boy who made me cry. I mean, I’ve already punched him a lot, obviously, but this time will be filled with raw emotion and justice. Basically, we need a war. Connacht versus Ulster. I know there’s something in that for you, too. Especially since I found out Ulster’s army is cursed and vulnerable. 
+I think Cu Chulainn’s cruel actions can be explained by a case of hubris. He let his successes go to his head to the point that he doesn’t think of anyone else, not even the person closest to him. He needs a wake up call, something to make him realize he isn’t some invincible god who the world revolves around. We need to attack, and he needs to lose, and I also need the catharsis of punching the boy who made me cry. I mean, I’ve already punched him a lot, obviously, but this time will be filled with raw emotion and justice. Basically, we need a war. Connacht versus Ulster. I know there’s something in that for you, too. Especially since I found out Ulster’s army is cursed and vulnerable.
+ 
+MEDB
+Oh, wonderful! 
 
 
 #13 QUEEN OF REVENGE
 	
 
 MEDB
-Oh, wonderful! Yes, yes, I understand perfectly. 
+Yes, yes, I understand perfectly. 
 
 
 YOU'VE COME TO THE RIGHT PLACE, MY FRIEND
@@ -2795,6 +2801,8 @@ ONTO THE BATTLEFIELD WHERE WE’LL MEET
 THAT BOY THAT YOU ONCE CALLED A FRIEND
 AND THE MAN THAT I ONCE CALLED A HUSBAND
 AND THERE THEY’LL FIND THEIR REWARD FOR HOW THEY TREATED US
+
+
 
 
 MEDB & FERDIAD
@@ -4366,7 +4374,6 @@ PROVE YOURSELF
 SETANTA
 I’LL DO MY VERY BEST, I’LL DO WHATEVER IT’LL TAKE
 TO PROTECT THE PEOPLE OF MY KINGDOM FROM HARM
-THEY’LL REMEMBER THE LIVES I SAVE AND NOT JUST THE ONES I’VE SLAIN
 
 
 CHORUS
@@ -4374,6 +4381,7 @@ WILL YOU SAVE US?
 
 
 SETANTA
+THEY’LL REMEMBER THE LIVES I SAVE AND NOT JUST THE ONES I’VE SLAIN
 THERE’S MORE TO ME THAN A MONSTER, I’VE GOT COURAGE, I’VE GOT CHARM
 AND NOW IT’S TIME TO PROVE IT
 
@@ -4527,15 +4535,19 @@ Ha! Look at you. Your mistakes are weighing on you and you’re weaker than ever
 
 
 SETANTA
-We’ll see how easy I make it for you. Whether or not I deserve to die, this kingdom that you’re attacking is still in danger. Maybe I won’t defeat your entire remaining army. But maybe I’ll whittle down the numbers so much that the people who are still here after I’m gone can actually stand a chance. 
+We’ll see how easy I make it for you. Whether or not I deserve to die, this kingdom that you’re attacking is still in danger. Maybe I won’t defeat your entire remaining army. 
+
+
+#21 FINALE
+	
+
+SETANTA
+But maybe I’ll whittle down the numbers so much that the people who are still here after I’m gone can actually stand a chance. 
 
 
 MEDB
 Good luck with that. Charge! 
 
-
-#21 FINALE
-	
 
 (The army, with LUGAID at the front, attack SETANTA. He struggles to dodge and block and outmaneuver them all. He manages to hit a good number of them but they also manage to injure him quite a bit.) 
 
