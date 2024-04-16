@@ -1,5 +1,5 @@
 # line memorization game
-# most basic form- just get setanta's lines from cu chulainn script
+# most basic form- just get a specified character's lines from cu chulainn script
 # paired with preceeding line
 
 
@@ -49,6 +49,18 @@ def get_setanta_lines(lines):
 
     #print(len(setanta_lines))
     return setanta_lines
+
+
+def get_character_lines(name, lines):
+
+    character_lines = []
+    for i in range(len((lines))):
+        if(lines[i] == f'{name.upper()}\n'):
+            character_lines.append(lines[i+1])
+    return character_lines
+
+def make_character_lines_file(name, lines):
+    pass # maybe idk
 
 
 # maybe... in random mode, shuffle then go in order
@@ -128,6 +140,9 @@ def run_game(rounds, pairs, randomness=True):
 
 randomness = False
 
+character = input("Choose your character! Are you: Setanta, Emer, Ferdiad, Forgall, Scathach, Medb, Lugaid, Lugh, Aife, Conchobar, or Cathbad?")
+
+
 custom = input("Do you wish to select a specific scene? Type y or n.")
 if(custom=="y"):
     actnum = input("Which act? Type 1 or 2")
@@ -150,10 +165,12 @@ else:
 lines = scene_select(all_lines, start)
 #print(lines[:5])
 
-setanta_lines = get_setanta_lines(lines)
+#setanta_lines = get_setanta_lines(lines)
 #print(setanta_lines[:3])
+character_lines = get_character_lines(character, lines)
 
-pairs = make_line_mem_game(lines, setanta_lines)
+#pairs = make_line_mem_game(lines, setanta_lines)
+pairs = make_line_mem_game(lines, character_lines)
 
 #print(pairs[:5])
 
