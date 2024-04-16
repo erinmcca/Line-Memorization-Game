@@ -4,7 +4,7 @@ A text-based game to help actors memorize their lines from a play script.
 AKA: Hi Andrew I am so sorry for giving you so many lines to learn, please accept my gift of atonement. 
 
 ## Current status
-Just Setanta's lines for now since he has the most by far. The file automatically runs 50 rounds of the game, which presents you with a preceding line or stage direction, prompts you to enter the character's line that comes next, lets you see the first two words of the line if you type !hint, and gives you a score using the Levenshtein distance between your answer and the actual line. 
+Start by selecting a character to review the lines of. The file automatically runs 50 rounds of the game, which presents you with a preceding line or stage direction, prompts you to enter the character's line that comes next, lets you see the first two words of the line if you type !hint, and gives you a score using the Levenshtein distance between your answer and the actual line. 
 You have the option to either go through all lines randomly, or to start with a specific scene. 
 
 ## To-dos
